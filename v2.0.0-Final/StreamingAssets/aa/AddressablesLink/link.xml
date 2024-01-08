@@ -11,6 +11,7 @@
     <type fullname="EnemyPropsRoaming" preserve="all" />
     <type fullname="EnemySpawn" preserve="all" />
     <type fullname="FinalBoss" preserve="all" />
+    <type fullname="FinalBossPropsRoaming" preserve="all" />
     <type fullname="FloorManager" preserve="all" />
     <type fullname="GetPlayer" preserve="all" />
     <type fullname="Ladder" preserve="all" />
